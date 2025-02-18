@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCE_EJtlJ7oexk3l0M5hV8KiOrDSRtDClE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>171618047578</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>test.develop.NY-Times-News</string>
+	<key>PROJECT_ID</key>
+	<string>newyork-times-news</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newyork-times-news.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:171618047578:ios:55862b7edcac59e558ea63</string>
+</dict>
+</plist>
